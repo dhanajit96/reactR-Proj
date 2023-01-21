@@ -6,6 +6,8 @@ import { useNavigate } from 'react-router-dom'
  function AddFavourites() {
 
     let navigate = useNavigate();
+  // this is useState method of react on function based component
+  
     let [title, setTitle] = useState("")
     let [genre, setGenre] = useState("")
     let [language, setLanguage] = useState("")

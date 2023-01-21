@@ -1,0 +1,11 @@
+.fav{
+   width: 100px;
+    height: 100px;
+}
+.fav_lists1{
+    display: flex;    
+}
+.newbutton{
+    width: 80;
+    height: 30;
+}

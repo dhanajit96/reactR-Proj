@@ -1,0 +1,16 @@
+.navbar{
+    background-color: midnightblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0px;
+}
+.links a{
+    color: white;
+    text-decoration: none;
+    margin: 0px 15px;
+}
+.links a:hover{
+    color: rgb(153, 153, 228);
+    font-size: large;
+}

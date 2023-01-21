@@ -1,0 +1,65 @@
+{
+  "movies": [
+    {
+      "title": "KGF",
+      "genre": "Action/Thriller",
+      "rating": 4,
+      "id": 3
+    },
+    {
+      "title": "Charlie",
+      "genre": "Action/Thriller",
+      "rating": 4,
+      "id": 5
+    },
+    {
+      "title": "Kashmir Files",
+      "genre": "Drama",
+      "language": "Hindi",
+      "rating": "4",
+      "id": 6
+    },
+    {
+      "title": "Tumbad",
+      "genre": "Drama/ Horror",
+      "language": "Hindi",
+      "rating": "5",
+      "id": 7
+    },
+    {
+      "title": "Pushpa",
+      "genre": "Action/Drama",
+      "language": "Tamil",
+      "rating": "4",
+      "id": 8
+    },
+    {
+      "title": "Swadesh",
+      "genre": "Drama",
+      "language": "Hindi",
+      "rating": "3",
+      "id": 9
+    },
+    {
+      "title": "Black Panther",
+      "genre": "Action",
+      "language": "English",
+      "rating": "4",
+      "id": 10
+    },
+    {
+      "title": "Kgf2",
+      "genre": "Action/Drama",
+      "language": "Kannada",
+      "rating": "5",
+      "id": 11
+    },
+    {
+      "title": "Ramayan",
+      "genre": "Drama",
+      "language": "Kannada",
+      "rating": "4",
+      "id": 12
+    }
+  ]
+}
